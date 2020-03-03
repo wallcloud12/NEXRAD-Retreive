@@ -1,6 +1,6 @@
 # NEXRAD-Retreive
 ## Description
-A program that retrieves archived NEXRAD data from NCEI’s AWS bucket.  Currently the program is only able to download one day of data at a time. (00UTC - 00UTC)
+A program that retrieves archived NEXRAD data from NCEI’s AWS bucket.  Currently the program is only able to download one day of data at a time. (00 UTC - 00 UTC)
 
 ## Instructions
 1. Run code with a python interpreter
